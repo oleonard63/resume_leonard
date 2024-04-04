@@ -1,1 +1,6 @@
 /* Place CSS styles here */
+body{
+    background-color: rgb(242, 232, 205);
+    color:rgb(11, 70, 48);
+    font-family: "Merriweather", serif;
+}
